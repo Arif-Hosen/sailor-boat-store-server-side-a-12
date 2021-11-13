@@ -1,4 +1,4 @@
-# Bengle Tour and Trip
+# Sailor Boat Store
 
 This project create for assignment-12 purpose. This is a niche website, where user can login logout , order product, cancel product. If user is not login they cannot acces order placement.
 ## Live site Link
